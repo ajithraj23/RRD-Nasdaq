@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Email Newsletter</title></head><body style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 13px">
+&nbsp;
+<div style="display: none; font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all;">The screenshot below shows a “potential” mandate sourced from Nasdaq eVestment’s fundraising solution</div>
+
+<p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 13px;">Hi {{Recipient.FirstName}},</span><br>
+<br>
+<span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">Hamilton Lane recently published a strategic plan update for their client, Teachers’ Retirement System of Louisiana, which includes private markets commitment pacing recommendations. The screenshot below shows a “potential” mandate sourced from Nasdaq eVestment’s fundraising solution for asset managers with details on Louisiana Teachers’s private debt investment plan for 2024 and the years to come.</span></span></p>
+
+<p><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif">The potential mandate’s source document include additional insights:</span></span></p>
+
+<ul>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><b>Louisiana Teachers is currently under-allocated to direct lending (0.2% vs. 3% target) and distressed debt/mezzanine (7.9% vs. 9% target)</b></span></span></li>
+	<li><span style="font-size:11pt"><span style="font-family:Calibri,sans-serif"><b>The plan is expected to commit $900 – $1,200 million across 6 – 10 private debt partnerships in FY 2024</b></span></span></li>
+</ul>
+<img alt="" border="0" height="auto" src="https://ev.nasdaq.com/l/16162/2024-06-07/5398gr/16162/1718032592jdOZs7Pp/LATeachers_MandateScreenshot_v2.png" style="height:auto; width: 600px; border-width: 0px; border-style: solid;padding-left:20px;padding-right:20px;" width="600">
+<p><span lang="EN-US" style="font-size:11.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">The insights above are sourced from <b>Nasdaq eVestment Market Lens</b> which tracks institutional allocators’ meetings and mandates, providing ample lead time for managers to get in front of upcoming allocations and manager searches. The platform also provides details on allocators’ and consultants’ manager recommendations, a valuable source of intelligence on competitors’ fees, performance, and even access to their pitchbooks.</span></span></p>
+
+<p><span lang="EN-US" style="font-size:11.0pt"><span style="font-family:&quot;Calibri&quot;,sans-serif">Do you have availability for a call in the coming weeks where I can show you which LPs may have interest in your strategy? Please let me know a time that works for you to discuss your firm’s fundraising plans and how we can help!</span></span></p>
+<br>
+<span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 13px;">Minkyu ‘Mike’ Cho, CFA<br>
+Senior Research Analyst</span><br>
+Investment Intelligence<br>
+<span style="font-family: tahoma, geneva, sans-serif; font-size: 13px;"><a href="https://www.nasdaq.com/solutions/evestment"><img alt="" border="0" height="40" src="https://secure-web.cisco.com/13-of1pL6B1OAENTC7PrSuJbqCE2VB-YlY_RggBCnUlLApO1BRl1AAnC_byDNPAl-P4lxkJwb0GBgONEznATeRTPNNaGx9F5WqjvvyRTyrYurCTEIHMIpt45tm68WJSkbl_XGjMjpaJ6ZEY-cjsHyt2ubzTHki3WHPWi0_sdpRGThv1mqcxjEXO-eVmKWy_-dnNWG-qSS6TXnzHbcde6eZqFIW_HALmdVeiEVlUF1lV19rYEJSvMYEL4MkAbguSdwOJLDiZlnT-vdT-XO6C8ZObo5KUNK12X3Jh2l8U_xQ0wbfJznLksJaGt7yCMZdI-n4Vg5-HR6Mu9kSg1bAJ2WQqczxx8E7u_CGd7wDi1Nftc/https%3A%2F%2Finfo.evestment.com%2Fl%2F16162%2F2021-06-11%2F3ybb3l%2F16162%2F1623415229G6UAq4SP%2FNasdaq_sig.png" style="width: 130px; height: 40px; border-width: 0px; border-style: solid;" width="130"></a></span><br>
+<span style="color:#000000;"><span style="font-family:tahoma,geneva,sans-serif;font-size: 13px;"><a href="{{EmailPreferenceCenter}}" style="font-size: 8px; font-family: tahoma, geneva, sans-serif; color:#0092BC;">Manage Email Preferences</a></span></span>
+
+<p>&nbsp;</p>
+</body></html>
